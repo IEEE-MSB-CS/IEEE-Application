@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="280dp"
+    android:layout_height="300dp"
+    android:layout_gravity="center_horizontal">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#E6E1E5"
+            android:padding="7dp">
+
+
+            <ImageView
+                android:id="@+id/eventImageView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="16dp"
+                android:background="@drawable/imageview_rectangle" />
+
+            <TextView
+                android:id="@+id/eventNameTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/eventImageView"
+                android:layout_alignStart="@+id/eventImageView"
+                android:text="Event Name "
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+
+            <ImageView
+                android:id="@+id/timeVector"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/eventNameTextView"
+                android:layout_alignStart="@+id/eventImageView"
+                android:layout_marginTop="3dp"
+                android:src="@drawable/ic_baseline_access_time_24" />
+
+
+            <TextView
+                android:id="@+id/timeOfEventTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/eventNameTextView"
+                android:layout_marginTop="3dp"
+                android:layout_toRightOf="@id/timeVector"
+                android:paddingHorizontal="7dp"
+                android:text="Mon, 23 Nov 1:30pm - 5:00pm"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <ImageView
+                android:id="@+id/locationVector"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/timeOfEventTextView"
+                android:layout_alignStart="@+id/eventImageView"
+                android:layout_marginTop="3dp"
+                android:src="@drawable/ic_baseline_location_on_24" />
+
+            <TextView
+                android:id="@+id/locationOfEventTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/timeOfEventTextView"
+                android:layout_toRightOf="@id/locationVector"
+                android:paddingHorizontal="7dp"
+                android:text="Cairo Uni., Cairo"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+        </RelativeLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
