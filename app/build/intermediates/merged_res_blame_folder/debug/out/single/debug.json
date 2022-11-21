@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\drawable_map_point.png.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\drawable\\map_point.png"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\layout_speakers_li.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\layout\\speakers_li.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\font_roboto.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\drawable_greybg.png.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\drawable\\greybg.png"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\drawable_rounded_img.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\drawable\\rounded_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\layout_fragment_event.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\layout\\fragment_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\layout_branch_li.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\layout\\branch_li.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.ieee.events.app-merged_res-48:/layout_fragment_event.xml.flat",
+        "source": "com.ieee.events.app-main-50:/layout/fragment_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-pngs-43:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\drawable_label_btn_bg.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\drawable\\label_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\drawable_clock_circle.png.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\drawable\\clock_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\layout_labels_rv_layout.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\layout\\labels_rv_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\drawable_ic_favourit.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\drawable\\ic_favourit.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\drawable_heart.png.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\drawable\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\drawable_ic_back_arrow.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\drawable\\ic_back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\layout_event_details_li.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\layout\\event_details_li.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-48:\\layout_events_li.xml.flat",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\layout\\events_li.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.ieee.events.app-mergeDebugResources-47:/layout/fragment_event.xml",
+        "source": "com.ieee.events.app-main-50:/layout/fragment_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-mergeDebugResources-47:\\layout\\fragment_event.xml",
+        "source": "C:\\Users\\DreamOnline\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-50:\\layout\\fragment_event.xml"
+    }
+]

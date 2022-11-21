@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+                                                              
+                                                  
+                                                        
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.EventFragment.EventFragment" android:tag="layout/fragment_event_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+      >
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           >
+            <ImageView
+                android:id="@+id/event_img"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:src="@drawable/greybg"
+                android:scaleType="fitXY"/>
+            <ImageView
+                android:id="@+id/back_btn"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginStart="16dp"
+                android:src="@drawable/ic_back_arrow"/>
+            <ImageView
+                android:id="@+id/share_btn"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="end"
+                android:layout_marginEnd="16dp"
+                android:layout_marginTop="16dp"
+                android:src="@drawable/ic_share"
+                />
+            <ImageView
+                android:id="@+id/favourite_btn"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="end"
+                android:layout_marginEnd="57dp"
+                android:layout_marginTop="16dp"
+                android:src="@drawable/ic_favourit"
+                />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            >
+
+            <TextView
+                android:id="@+id/event_name_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/roboto"
+                android:text="Event Name"
+                android:textStyle="bold"
+                android:textSize="22sp"
+                android:textColor="@color/black"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/label_rv"
+                android:layout_width="200dp"
+                android:layout_height="35dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="48dp"
+                tools:listitem="@layout/labels_rv_layout"
+                android:orientation="horizontal"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                />
+
+            <TextView
+                android:id="@+id/attend_people_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2000 Going"
+                android:textStyle="bold"
+                android:layout_marginTop="56dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="64dp"
+                android:textSize="14sp"
+                android:visibility="visible"
+                android:textColor="@color/black"
+                android:fontFamily="@font/roboto"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/about_event"
+                android:layout_marginTop="88dp"
+                android:layout_marginStart="16dp"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/roboto"/>
+
+
+            <kr.co.prnd.readmore.ReadMoreTextView
+                android:id="@+id/about_event_txt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="120dp"
+                android:layout_marginStart="16dp"
+                android:text="@string/about_event_text"
+                app:readMoreMaxLine="3"
+                android:textSize="14sp"
+                android:padding="7dp"
+                android:textColor="#787579"
+                android:fontFamily="@font/roboto"
+                app:readMoreText=" read more"
+                app:readMoreColor="#006491"/>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:layout_marginTop="10dp"
+            >
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/event_details_rv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                tools:listitem="@layout/event_details_li"/>
+
+        </FrameLayout>
+
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:layout_marginTop="10dp"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/speakrs"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/roboto"
+                android:layout_marginStart="16dp"
+                android:textStyle="bold"
+                />
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/event_speakers_rv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="32dp"
+                tools:listitem="@layout/event_details_li"/>
+
+        </FrameLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="24dp"
+            android:background="@android:color/darker_gray"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"/>
+        <FrameLayout
+            android:padding="7dp"
+            android:layout_marginTop="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/branch"
+                android:textSize="20sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_marginStart="16dp"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/branchs_rv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:layout_marginStart="16dp"
+                tools:listitem="@layout/branch_li"/>
+        </FrameLayout>
+
+
+        <FrameLayout
+            android:layout_marginTop="32dp"
+            android:padding="7dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/more_events_from_this_branch"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:fontFamily="@font/roboto"
+                android:textStyle="bold"
+                android:layout_marginStart="16dp"/>
+
+        </FrameLayout>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:layout_marginTop="10dp"
+            >
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/events_rv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                tools:listitem="@layout/events_li"
+                android:orientation="horizontal"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+
+        </FrameLayout>
+        
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/book_event_btn"
+            android:layout_width="352dp"
+            android:layout_height="48dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginBottom="40dp"
+            android:background="#006491"
+            android:text="@string/book_event"
+            android:textColor="@color/white"
+            android:layout_marginTop="32dp"
+            android:elevation="10dp"/>
+    </LinearLayout>
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
+         
