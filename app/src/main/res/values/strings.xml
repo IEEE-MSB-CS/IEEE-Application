@@ -2,4 +2,9 @@
     <string name="app_name">IEEE</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="event_name">Event Name</string>
+    <string name="date_time">Mon, 23 Nov 1:30 - 5:00pm</string>
+    <string name="location">Cairo Uni., Cairo</string>
+    <string name="android">Android</string>
+    <string name="search_for_event">Search for event...</string>
 </resources>
