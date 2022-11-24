@@ -2,9 +2,20 @@
     <string name="app_name">IEEE</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
     <string name="event_name">Event Name</string>
     <string name="date_time">Mon, 23 Nov 1:30 - 5:00pm</string>
     <string name="location">Cairo Uni., Cairo</string>
     <string name="android">Android</string>
     <string name="search_for_event">Search for event...</string>
+
+    <string name="about_event">About Event</string>
+    <string name="about_event_text">Hello will take about and  Lorem ipsum dolor sit amet consectetur. Gravida nulla laoreet ipsum ultrices id id pulvinar egestas ante. Adipiscing lobortis vel justo viverra egestas sit adipiscing viverra saldnsalnd asldnlnaslas alsnlasnlasn alsndlasndwnas nfslaflnansfin asndlasnlfn.</string>
+    <string name="speakers">Speakers</string>
+    <string name="speakrs">Speakers</string>
+    <string name="branch">Branch</string>
+    <string name="follow">Follow</string>
+    <string name="more_events_from_this_branch">More Events from this branch</string>
+    <string name="book_event">Book Event</string>
+
 </resources>
