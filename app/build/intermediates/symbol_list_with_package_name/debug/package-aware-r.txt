@@ -2603,8 +2603,12 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ellipse_1
+drawable ellipse_3
+drawable ellipse_4
 drawable facebook
 drawable google
+drawable ic_baseline_done_all_24
 drawable ic_baseline_person_outline_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
@@ -2869,6 +2873,8 @@ id easeOut
 id east
 id edit_query
 id elastic
+id ellipse_1
+id ellipse_3
 id embed
 id end
 id endToStart
@@ -3331,7 +3337,7 @@ layout design_text_input_start_icon
 layout fragment_home
 layout fragment_sign_in
 layout fragment_sign_up
-layout fragment_sign_up_verifed
+layout fragment_sign_up_verified
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title

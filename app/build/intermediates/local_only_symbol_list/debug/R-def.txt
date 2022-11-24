@@ -7,8 +7,12 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable ellipse_1
+drawable ellipse_3
+drawable ellipse_4
 drawable facebook
 drawable google
+drawable ic_baseline_done_all_24
 drawable ic_baseline_person_outline_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -19,6 +23,8 @@ drawable phone
 drawable sign_in_button_background
 drawable singin_pic
 id centerOfSignIn
+id ellipse_1
+id ellipse_3
 id homeFragment
 id nav_graph
 id nav_host_fragment
@@ -28,7 +34,7 @@ layout activity_main
 layout fragment_home
 layout fragment_sign_in
 layout fragment_sign_up
-layout fragment_sign_up_verifed
+layout fragment_sign_up_verified
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation nav_graph

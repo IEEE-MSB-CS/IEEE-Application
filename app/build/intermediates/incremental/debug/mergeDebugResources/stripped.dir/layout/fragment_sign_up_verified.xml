@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                   
+
+    
+
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".ui.SignInFragment.SignUpVerified"
+         android:tag="layout/fragment_sign_up_verified_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="128dp"
+            android:layout_marginBottom="24dp"
+            android:layout_gravity="center">
+            <View
+                android:id="@+id/ellipse_1"
+                android:layout_width="216dp"
+                android:layout_height="216dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/ellipse_1"
+                />
+            <View
+                android:id="@+id/ellipse_3"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/ellipse_3"
+                />
+
+            <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_baseline_done_all_24"
+            android:background="@drawable/ellipse_4"
+            android:scaleType="center"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            />
+
+        </RelativeLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="All Done"
+            android:layout_gravity="center"
+            android:textSize="32sp"
+            android:textColor="#006491"
+            android:layout_marginBottom="5dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="52dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginBottom="32dp"
+            android:text="Your account has been created successfully  "
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="22sp"
+            android:textColor="#50606E"
+
+
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Explore"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:layout_marginTop="32dp"
+            android:shadowColor="@color/black"
+            android:shadowRadius="15"
+            android:shadowDy="2"
+            android:shadowDx="2"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:background="@drawable/sign_in_button_background"
+            />
+
+    </LinearLayout>
+         

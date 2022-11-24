@@ -1,18 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-mergeDebugResources-46:\\layout\\fragment_sign_up_verifed.xml",
-        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-49:\\layout\\fragment_sign_up_verifed.xml"
-    },
-    {
         "merged": "com.ieee.events.app-mergeDebugResources-46:/layout/fragment_sign_up.xml",
         "source": "com.ieee.events.app-main-49:/layout/fragment_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-mergeDebugResources-46:\\layout\\fragment_sign_in.xml",
-        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-49:\\layout\\fragment_sign_in.xml"
+        "merged": "com.ieee.events.app-mergeDebugResources-46:/layout/fragment_sign_up_verified.xml",
+        "source": "com.ieee.events.app-main-49:/layout/fragment_sign_up_verified.xml"
     },
     {
-        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-mergeDebugResources-46:\\layout\\fragment_sign_up.xml",
-        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-49:\\layout\\fragment_sign_up.xml"
+        "merged": "com.ieee.events.app-mergeDebugResources-46:/layout/fragment_sign_in.xml",
+        "source": "com.ieee.events.app-main-49:/layout/fragment_sign_in.xml"
     }
 ]

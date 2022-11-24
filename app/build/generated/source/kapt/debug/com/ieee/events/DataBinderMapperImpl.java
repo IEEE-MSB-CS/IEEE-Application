@@ -8,7 +8,7 @@ import androidx.databinding.DataBindingComponent;
 import androidx.databinding.ViewDataBinding;
 import com.ieee.events.databinding.FragmentSignInBindingImpl;
 import com.ieee.events.databinding.FragmentSignUpBindingImpl;
-import com.ieee.events.databinding.FragmentSignUpVerifedBindingImpl;
+import com.ieee.events.databinding.FragmentSignUpVerifiedBindingImpl;
 import java.lang.IllegalArgumentException;
 import java.lang.Integer;
 import java.lang.Object;
@@ -24,14 +24,14 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_FRAGMENTSIGNUP = 2;
 
-  private static final int LAYOUT_FRAGMENTSIGNUPVERIFED = 3;
+  private static final int LAYOUT_FRAGMENTSIGNUPVERIFIED = 3;
 
   private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(3);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.ieee.events.R.layout.fragment_sign_in, LAYOUT_FRAGMENTSIGNIN);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.ieee.events.R.layout.fragment_sign_up, LAYOUT_FRAGMENTSIGNUP);
-    INTERNAL_LAYOUT_ID_LOOKUP.put(com.ieee.events.R.layout.fragment_sign_up_verifed, LAYOUT_FRAGMENTSIGNUPVERIFED);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.ieee.events.R.layout.fragment_sign_up_verified, LAYOUT_FRAGMENTSIGNUPVERIFIED);
   }
 
   @Override
@@ -55,11 +55,11 @@ public class DataBinderMapperImpl extends DataBinderMapper {
           }
           throw new IllegalArgumentException("The tag for fragment_sign_up is invalid. Received: " + tag);
         }
-        case  LAYOUT_FRAGMENTSIGNUPVERIFED: {
-          if ("layout/fragment_sign_up_verifed_0".equals(tag)) {
-            return new FragmentSignUpVerifedBindingImpl(component, view);
+        case  LAYOUT_FRAGMENTSIGNUPVERIFIED: {
+          if ("layout/fragment_sign_up_verified_0".equals(tag)) {
+            return new FragmentSignUpVerifiedBindingImpl(component, view);
           }
-          throw new IllegalArgumentException("The tag for fragment_sign_up_verifed is invalid. Received: " + tag);
+          throw new IllegalArgumentException("The tag for fragment_sign_up_verified is invalid. Received: " + tag);
         }
       }
     }
@@ -119,7 +119,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
     static {
       sKeys.put("layout/fragment_sign_in_0", com.ieee.events.R.layout.fragment_sign_in);
       sKeys.put("layout/fragment_sign_up_0", com.ieee.events.R.layout.fragment_sign_up);
-      sKeys.put("layout/fragment_sign_up_verifed_0", com.ieee.events.R.layout.fragment_sign_up_verifed);
+      sKeys.put("layout/fragment_sign_up_verified_0", com.ieee.events.R.layout.fragment_sign_up_verified);
     }
   }
 }
