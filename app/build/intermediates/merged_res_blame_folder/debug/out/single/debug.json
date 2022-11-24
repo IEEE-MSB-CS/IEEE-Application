@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_input_text_background_sign_in.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\input_text_background_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-pngs-0:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ieee.events.app-merged_res-5:/layout_fragment_sign_up.xml.flat",
+        "source": "com.ieee.events.app-main-7:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_ellipse_4.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\ellipse_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-pngs-0:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_ic_baseline_done_all_24.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\ic_baseline_done_all_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\layout_fragment_sign_up_verified.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\layout\\fragment_sign_up_verified.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_google.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_key.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\key.png"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\layout_fragment_sign_in.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\layout\\fragment_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-pngs-0:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-pngs-0:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-pngs-0:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_ellipse_3.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\ellipse_3.xml"
+    },
+    {
+        "merged": "com.ieee.events.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.ieee.events.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\layout_fragment_sign_up.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\layout\\fragment_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_sign_in_button_background.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\sign_in_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_letter.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\letter.png"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_phone.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_singin_pic.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\singin_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable_ellipse_1.xml.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\drawable\\ellipse_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-pngs-0:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\20101\\.gradle\\daemon\\7.3.3\\com.ieee.events.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]
