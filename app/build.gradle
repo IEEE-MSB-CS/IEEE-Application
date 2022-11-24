@@ -50,6 +50,12 @@ dependencies {
     implementation("androidx.navigation:navigation-ui-ktx:$nav_version")
 
 
+    //read more text
+    implementation 'kr.co.prnd:readmore-textview:1.0.0'
+
+
+
+
 
 
 
