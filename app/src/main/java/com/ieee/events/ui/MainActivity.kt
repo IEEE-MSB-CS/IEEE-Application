@@ -1,4 +1,4 @@
-
+package com.ieee.events.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
