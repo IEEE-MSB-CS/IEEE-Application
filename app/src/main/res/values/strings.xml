@@ -26,6 +26,7 @@
     <string name="email_to_resetpass">Enter an Email address associated with your account and we will send OTP to reset your password</string>
     <string name="email">   Email</string>
     <string name="send">Send</string>
+    <string name="tickets">Tickets</string>
 
 
 </resources>
