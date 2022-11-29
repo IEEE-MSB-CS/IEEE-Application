@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content">
 
     <androidx.cardview.widget.CardView
         android:id="@+id/event_small"
@@ -47,10 +47,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/event_name"
-                    android:textSize="14sp"
-                    android:letterSpacing="0.01"
-                    android:textColor="@color/black"
-                    android:fontFamily="@font/roboto_medium"
+                    android:textAppearance="@style/Label.Large"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" />
 
@@ -76,10 +73,7 @@
                         android:layout_marginStart="5dp"
                         android:layout_toEndOf="@+id/ic_clock"
                         android:text="@string/date_time"
-                        android:textSize="11sp"
-                        android:letterSpacing="0.05"
-                        android:textColor="@color/black"
-                        android:fontFamily="@font/roboto_medium"/>
+                        android:textAppearance="@style/Label.Small"/>
 
                 </RelativeLayout>
 
@@ -104,10 +98,7 @@
                         android:layout_marginStart="5dp"
                         android:layout_toEndOf="@+id/ic_mpa_pin"
                         android:text="@string/location"
-                        android:textSize="11sp"
-                        android:letterSpacing="0.05"
-                        android:textColor="@color/black"
-                        android:fontFamily="@font/roboto_medium"/>
+                        android:textAppearance="@style/Label.Small"/>
 
                 </RelativeLayout>
 

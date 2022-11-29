@@ -10,5 +10,20 @@
 
     <color name="blue">#007EB6</color>
 
+    <color name="primary_10">#001E2F</color>
+    <color name="primary_20">#00344E</color>
+    <color name="primary_30">#004B6F</color>
+    <color name="primary_40">#006491</color>
+    <color name="primary_50">#007EB6</color>
+    <color name="primary_60">#3699D2</color>
+    <color name="primary_70">#58B4EE</color>
+    <color name="primary_80">#8ACEFF</color>
+    <color name="primary_90">#C9E6FF</color>
+    <color name="primary_95">#E6F2FF</color>
+    <color name="primary_99">#FCFCFF</color>
+    <color name="primary_100">#FFFFFF</color>
+
+
+
 
 </resources>
