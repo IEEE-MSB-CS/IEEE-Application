@@ -1,7 +1,6 @@
-package com.ieee.events.ui.exploreFragment.adapters
+package com.ieee.events.ui.exploreFragment
 
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.ieee.events.data.models.Events

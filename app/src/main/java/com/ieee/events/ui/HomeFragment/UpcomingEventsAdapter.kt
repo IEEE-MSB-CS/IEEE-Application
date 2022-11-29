@@ -8,9 +8,10 @@ import androidx.recyclerview.widget.AsyncListDiffer
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.ieee.events.data.Models.UpcomingEvent
+import com.ieee.events.data.models.Events
 import com.ieee.events.databinding.EventItemBinding
 
-class UpcomingEventsAdapter constructor(val events: List<UpcomingEvent>) :
+class UpcomingEventsAdapter(val events: List<Events>) :
     RecyclerView.Adapter<UpcomingEventsAdapter.Viewholder>() {
 
     inner class Viewholder(val binding: EventItemBinding) :
