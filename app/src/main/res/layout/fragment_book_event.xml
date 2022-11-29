@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.BookEvent.BookEventFragment">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <ImageView
+            android:id="@+id/back_btn"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="18dp"
+            android:src="@drawable/ic_black_back_arrow" />
+
+        <TextView
+            android:id="@+id/txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="56dp"
+            android:layout_marginTop="12dp"
+            android:textSize="24sp"
+            android:layout_marginBottom="24dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:text="@string/book_eventt" />
+
+
+        <include
+            android:id="@+id/event_de_la"
+            android:layout_below="@+id/txt"
+            layout="@layout/book_detials_card"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/particepent_rv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/event_de_la"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            tools:listitem="@layout/particepent_li"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_below="@+id/particepent_rv"
+            android:id="@+id/addpart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:cardElevation="10dp"
+            app:cardCornerRadius="5dp"
+            android:visibility="visible"
+            app:cardMaxElevation="3dp"
+            android:padding="14dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true">
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:src="@drawable/user_plus"/>
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/add_participant"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:fontFamily="@font/roboto"
+                android:textColor="@color/black"
+                android:layout_marginStart="40dp"/>
+        </androidx.cardview.widget.CardView>
+        
+        <Button
+            android:id="@+id/confirm"
+            android:layout_width="352dp"
+            android:layout_height="48dp"
+            android:gravity="center"
+            android:background="@drawable/rounded_btn"
+            android:text="@string/confirm"
+            android:textAllCaps="false"
+            android:layout_below="@+id/addpart"
+            android:layout_marginTop="16dp"
+            android:layout_marginStart="22dp"
+            android:layout_marginBottom="16dp"
+            />
+    </RelativeLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
