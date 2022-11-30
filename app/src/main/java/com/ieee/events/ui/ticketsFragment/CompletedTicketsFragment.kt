@@ -1,4 +1,4 @@
-package com.ieee.events.ui.exploreFragment
+package com.ieee.events.ui.ticketsFragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -8,21 +8,23 @@ import android.view.ViewGroup
 import com.ieee.events.R
 import com.ieee.events.data.models.Events
 import com.ieee.events.databinding.FragmentExploreBinding
+import com.ieee.events.ui.exploreFragment.ExploreEventsAdapter
+import com.ieee.events.ui.exploreFragment.ExploreTagAdapter
 
-class ExploreFragment : Fragment() {
+
+class CompletedFragment : Fragment() {
 
 
     private var _binding: FragmentExploreBinding? = null
     private val binding get() = _binding!!
 
-    private  lateinit var exploreEventsAdapter: ExploreEventsAdapter
-    private  lateinit var exploreTagAdapter: ExploreTagAdapter
+    private  lateinit var completedTicketsAdapter: CompletedTicketsAdapter
 
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View {
+    ): View? {
         _binding = FragmentExploreBinding.inflate(layoutInflater, container, false)
 
         return binding.root
@@ -43,13 +45,8 @@ class ExploreFragment : Fragment() {
 
         val list: List<Events> = mutableListOf(event1, event2, event3, event4)
 
+        completedTicketsAdapter = CompletedTicketsAdapter(list)
 
-        exploreEventsAdapter = ExploreEventsAdapter(list)
-        exploreTagAdapter = ExploreTagAdapter(list)
-
-        binding.eventSmallList.adapter = exploreEventsAdapter
-        binding.eventTagFilter.adapter = exploreTagAdapter
     }
-
 
 }

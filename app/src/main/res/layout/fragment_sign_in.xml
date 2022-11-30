@@ -55,7 +55,7 @@
             android:hint="Email or phone number"
             android:textColorHint="@color/black"
             android:drawablePadding="8dp"
-            android:paddingLeft="4dp"
+            android:paddingLeft="7dp"
             app:hintTextColor="@color/black"
             android:textCursorDrawable="@null"
             android:lineSpacingExtra="5dp"
@@ -75,12 +75,13 @@
             android:hint="Password"
             android:textColorHint="@color/black"
             android:drawablePadding="8dp"
-            android:paddingLeft="4dp"
+            android:paddingLeft="7dp"
             android:textCursorDrawable="@null"
             android:lineSpacingExtra="5dp"
             app:hintTextColor="@color/black"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="4dp"
+            android:inputType="textPassword"
             android:drawableLeft="@drawable/key"
             />
         <RelativeLayout
@@ -122,14 +123,14 @@
             android:shadowDx="2"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
-            android:layout_marginBottom="16dp"
+            android:layout_marginBottom="4dp"
             android:background="@drawable/sign_in_button_background"
             />
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical|center_horizontal"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="4dp"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
             android:layout_marginBottom="16dp">
